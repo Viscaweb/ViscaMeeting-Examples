@@ -7,7 +7,7 @@ You can attend to these meetings for free in our offices, in Barcelona.
 **Just join! http://www.viscaweb.com/meetings/**
 
 ### Meeting: #CleanCode
-More information soon...
+- [Examples of interfaces in different languages](https://github.com/Viscaweb/ViscaMeeting-Examples/tree/master/CleanCode)
 
 ### Meeting: #UnixTricks
 More information soon...
