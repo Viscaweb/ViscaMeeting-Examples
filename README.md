@@ -10,4 +10,5 @@ You can attend to these meetings for free in our offices, in Barcelona.
 - [Examples of interfaces in different languages](https://github.com/Viscaweb/ViscaMeeting-Examples/tree/master/CleanCode)
 
 ### Meeting: #UnixTricks
-- [How to redirect outputs?](https://github.com/Viscaweb/ViscaMeeting-Examples/tree/master/UnixTricks)
+- [How to redirect outputs?](https://github.com/Viscaweb/ViscaMeeting-Examples/tree/master/UnixTricks/redirections)
+- [Testing ngrok](https://github.com/Viscaweb/ViscaMeeting-Examples/tree/master/UnixTricks/ngrok)
