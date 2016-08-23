@@ -8,12 +8,12 @@ Your web server must listen on the port: `89`
 
 ## Workflow
 * The user tries to reach the page: `EntryPoint.php` through the reverse proxy (`8989`) 
-* This file is sending headers describing it can be saved in cache until: _Tue, 07 Mar 2017 05:00:00 GMT_
+* This file is sending headers describing it hasn't be modified since: _Sat, 25 June 2017 05:00:00 GMT_
 * The user will reach the reverse proxy (in our case, emulated by `ReverseProxy.php`)
 * The user must see the response content **and** headers provided by `EntryPoint.php`.
 
 ## Exercise
-* When a user hit the reverse proxy, you should check **by consuming the less resources you can** if the Etag has been modified, and if so, refresh the local version.
+* When a user hit the reverse proxy, you should check **by consuming the less resources you can** if this date has been modified and if its greater than the cached one.
 * Write a test validating this workflow before making the implementation.
 * Make `ReverseProxy.php` able to return the content requested by the user.
 * Try parsing the headers provided by this request, and catch it.

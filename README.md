@@ -26,3 +26,5 @@ You can attend to these meetings for free in our offices, in Barcelona.
 
 ### Kata: #ImplementYourOwnReverseProxy
 - [Reverse Proxy catching the expiration date](https://github.com/Viscaweb/ViscaMeeting-Examples/tree/master/ReverseProxy/kata/src/TestCatchExpirationDate/Exercise.md)
+- [Reverse Proxy catching the etag value](https://github.com/Viscaweb/ViscaMeeting-Examples/tree/master/ReverseProxy/kata/src/TestCatchEtag/Exercise.md)
+- [Reverse Proxy catching using the last modified date](https://github.com/Viscaweb/ViscaMeeting-Examples/tree/master/ReverseProxy/kata/src/TestCatchLastModified/Exercise.md)
