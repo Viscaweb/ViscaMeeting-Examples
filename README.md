@@ -25,4 +25,4 @@ You can attend to these meetings for free in our offices, in Barcelona.
 - [Analyse Apache Log, extract IPs and ban them](https://github.com/Viscaweb/ViscaMeeting-Examples/tree/master/UnixTricks/kata/part2_apache_log)
 
 ### Kata: #ImplementYourOwnReverseProxy
-- [Reverse Proxy catching the expiration date](https://github.com/Viscaweb/ViscaMeeting-Examples/tree/master/ReverseProxy/kata/src/TestCatchExpirationDate/Exercice.md)
+- [Reverse Proxy catching the expiration date](https://github.com/Viscaweb/ViscaMeeting-Examples/tree/master/ReverseProxy/kata/src/TestCatchExpirationDate/Exercise.md)

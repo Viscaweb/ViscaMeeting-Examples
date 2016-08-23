@@ -8,10 +8,9 @@ class Test extends \PHPUnit_Framework_TestCase
 {
     public function test()
     {
-        $url = 'http://kata.dev/TestCatchExpirationDate/EntryPoint.php';
+        $url = 'http://localhost:8989/TestCatchExpirationDate/EntryPoint.php';
 
         $client = new Client();
-        $this->assertTrue(true);
 
         $response = $client->get($url);
         $this->assertEquals('Miss', $response->getHeader('X-Cache')[0]);
