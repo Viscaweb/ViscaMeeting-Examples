@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "psr-0": { "": "src/", "SymfonyStandard": "app/" }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "phpunit/phpunit": "5.5.*"
+    }
+}
