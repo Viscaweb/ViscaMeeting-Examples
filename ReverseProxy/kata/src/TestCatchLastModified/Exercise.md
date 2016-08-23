@@ -1,8 +1,9 @@
 # Implement your own reverse proxy
 
 ## Preamble
-Your reverse proxy must listen on the port: `8989`
-Your web server must listen on the port: `89`
+* Your reverse proxy must listen on the port: `80`
+* Your web server must listen on the port: `8080`
+* If you can't expose `80` and `8080`, feel free to use any other combinations (`89` and `8989` for example?)
 
 `NOTE: ` You can easily switch from `PHP` to another language, you just need to have a running web server listening on those ports.
 
